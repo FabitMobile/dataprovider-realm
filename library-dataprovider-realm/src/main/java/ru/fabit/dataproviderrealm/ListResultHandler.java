@@ -1,4 +1,4 @@
-package ru.parking.dataprovider_realm;
+package ru.fabit.dataproviderrealm;
 
 import java.io.IOException;
 import java.util.List;

@@ -1,4 +1,4 @@
-package ru.parking.dataprovider_realm;
+package ru.fabit.dataproviderrealm;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -16,12 +16,12 @@ import io.reactivex.schedulers.Schedulers;
 import io.realm.RealmModel;
 import io.realm.RealmQuery;
 import io.realm.Sort;
-import ru.parking.localservice_realm.AggregationFunction;
-import ru.parking.localservice_realm.LocalService;
-import ru.parking.localservice_realm.LocalServiceParams;
-import ru.parking.localservice_realm.commonmapper.CommonMapper;
-import ru.parking.remoteservice.RemoteService;
-import ru.parking.utils.Optional;
+import ru.fabit.localservicerealm.AggregationFunction;
+import ru.fabit.localservicerealm.LocalService;
+import ru.fabit.localservicerealm.LocalServiceParams;
+import ru.fabit.localservicerealm.commonmapper.CommonMapper;
+import ru.fabit.remoteservice.RemoteService;
+import ru.fabit.utils.Optional;
 
 
 @SuppressWarnings("unchecked")

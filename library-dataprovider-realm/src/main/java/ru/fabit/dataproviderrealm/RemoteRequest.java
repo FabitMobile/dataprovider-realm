@@ -1,9 +1,9 @@
-package ru.parking.dataprovider_realm;
+package ru.fabit.dataproviderrealm;
 
 import java.util.HashMap;
 import java.util.Objects;
 
-import ru.parking.localservice_realm.commonmapper.CommonMapper;
+import ru.fabit.localservicerealm.commonmapper.CommonMapper;
 
 public class RemoteRequest<InputType, ReturnType> {
 

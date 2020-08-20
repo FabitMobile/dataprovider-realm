@@ -1,4 +1,4 @@
-package ru.parking.dataprovider_realm;
+package ru.fabit.dataproviderrealm;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.core.JsonParseException;

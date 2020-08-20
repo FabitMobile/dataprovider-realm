@@ -1,4 +1,4 @@
-package ru.parking.dataprovider_realm;
+package ru.fabit.dataproviderrealm;
 
 import java.util.List;
 
@@ -8,9 +8,9 @@ import io.reactivex.functions.Consumer;
 import io.reactivex.functions.Function;
 import io.realm.RealmModel;
 import io.realm.RealmQuery;
-import ru.parking.localservice_realm.AggregationFunction;
-import ru.parking.localservice_realm.commonmapper.CommonMapper;
-import ru.parking.utils.Optional;
+import ru.fabit.localservicerealm.AggregationFunction;
+import ru.fabit.localservicerealm.commonmapper.CommonMapper;
+import ru.fabit.utils.Optional;
 
 
 public interface EntityDataProvider {

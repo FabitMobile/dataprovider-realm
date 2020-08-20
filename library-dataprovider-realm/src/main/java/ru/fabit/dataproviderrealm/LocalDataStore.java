@@ -1,8 +1,8 @@
-package ru.parking.dataprovider_realm;
+package ru.fabit.dataproviderrealm;
 
 import org.json.JSONException;
 
-import ru.parking.localservice_realm.LocalService;
+import ru.fabit.localservicerealm.LocalService;
 
 
 public abstract class LocalDataStore {
