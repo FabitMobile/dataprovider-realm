@@ -33,7 +33,7 @@ ext {
 
     libs = [
             utils            : "com.github.FabitMobile:utils:$libraryUtilsVersion",
-            remoteservice    : "com.github.FabitMobile:utils:$libraryRemoteServiceVersion",
-            localservicerealm: "com.github.FabitMobile:utils:$libraryLocalServiceRealmVersion"
+            remoteservice    : "com.github.FabitMobile:remoteservice:$libraryRemoteServiceVersion",
+            localservicerealm: "com.github.FabitMobile:localservice-realm:$libraryLocalServiceRealmVersion"
     ]
 }
