@@ -17,7 +17,7 @@ ext {
 
     //FABIT
     libraryUtilsVersion = '1.0.0'
-    libraryRemoteServiceVersion = '1.0.0'
+    libraryRemoteServiceVersion = '1.0.1'
     libraryLocalServiceRealmVersion = '1.0.0'
 
     dataProviderRealmDependencies = [
