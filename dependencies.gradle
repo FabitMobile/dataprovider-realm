@@ -5,8 +5,8 @@ ext {
     androidMinSdkVersion = 19
     androidTargetSdkVersion = 28
 
-    appVersionCode = 102
-    appVersionName = "1.99.1"
+    appVersionCode = 3
+    appVersionName = "1.0.3"
 
     //Deps
     timberVersion = '4.7.0'
@@ -18,7 +18,7 @@ ext {
     //FABIT
     libraryUtilsVersion = '1.0.0'
     libraryRemoteServiceVersion = '1.0.2'
-    libraryLocalServiceRealmVersion = '1.0.0'
+    libraryLocalServiceRealmVersion = '1.0.1'
 
     dataProviderRealmDependencies = [
             kotlinStdlib      : "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version",
